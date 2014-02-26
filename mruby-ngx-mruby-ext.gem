@@ -1,6 +1,0 @@
-name: mruby-ngx-mruby-ext
-description: Nginx class
-author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-ngx-mruby-ext
-protocol: git
-repository: https://github.com/matsumoto-r/mruby-ngx-mruby-ext.git
