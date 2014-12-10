@@ -15,7 +15,7 @@ class Nginx
 end
 
 module Kernel
-  def load_server_class
+  def get_server_class
     Nginx
   end
 end
