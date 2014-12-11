@@ -1,3 +1,4 @@
+# This is moved to ngx_mruby core.
 # mruby-ngx-mruby-ext   [![Build Status](https://travis-ci.org/matsumoto-r/mruby-ngx-mruby-ext.png?branch=master)](https://travis-ci.org/matsumoto-r/mruby-ngx-mruby-ext)
 Extended Nginx class for ngx_mruby. You can exnted Nginx class by mrbgem.
 
